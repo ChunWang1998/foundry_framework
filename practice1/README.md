@@ -49,6 +49,8 @@ $ anvil
 
 ```shell
 $ forge script script/Counter.s.sol:CounterScript --rpc-url <your_rpc_url> --private-key <your_private_key>
+forge create --rpc-url https://eth-goerli.g.alchemy.com/v2/qMpEPT2WDORKRVSE6XjU6e6yYHZz-Mqr --private-key  bc174d4a0716ac3c7fd9d46d60a23380c22cd32b7e59eaa976e7322a7257765d src/TodoMvc.sol:ToDoMVC --etherscan-api-key X6WQUSM2BK97F9UZNNKVX7BSRZHWAKAS55 --verify
+
 ```
 
 ### Cast
