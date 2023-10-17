@@ -10,3 +10,6 @@
 [submodule "audit_files/lib/forge-std"]
 	path = audit_files/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "audit_files/lib/openzeppelin-contracts"]
+	path = audit_files/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
