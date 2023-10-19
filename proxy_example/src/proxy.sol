@@ -12,6 +12,7 @@ contract C {
 }
 
 contract B {
+    //B 和 C 的"variable states" 要相同
     uint256 public number;
     address public sender;
 
